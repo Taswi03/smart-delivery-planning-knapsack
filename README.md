@@ -45,7 +45,3 @@ A menu-driven C program implementing the **Fractional Knapsack Greedy Algorithm*
   * Package 2: `10%` taken (Fractional, Value: 3, Weight: 1)
 
 ---
-
-
-# On Windows:
-knapsack.exe
